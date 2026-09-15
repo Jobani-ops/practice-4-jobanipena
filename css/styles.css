@@ -1,3 +1,17 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
 body {
-    background-color: #c44040;
+   background: #fbf8f3;
+   color: #1d1b18;
+    font-family: Arial, Helvetica, sans-serif;
+    font: 18px;
+    line-height: 1.65;
+}
+
+h1, h2, h3 {
+    font-family: "Comic Relief", Arial, Helvetica, sans-serif;
 }
